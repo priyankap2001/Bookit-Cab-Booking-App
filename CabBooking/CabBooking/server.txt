@@ -1,0 +1,4 @@
+103.21.58.192
+cabbooking_db
+cabbooking_user
+Password@123

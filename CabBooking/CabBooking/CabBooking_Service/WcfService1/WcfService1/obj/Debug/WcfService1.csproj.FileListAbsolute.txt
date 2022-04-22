@@ -1,0 +1,7 @@
+E:\Project 21-22\CabBooking\CabBooking_Service\WcfService1\WcfService1\bin\WcfService1.dll.config
+E:\Project 21-22\CabBooking\CabBooking_Service\WcfService1\WcfService1\bin\WcfService1.dll
+E:\Project 21-22\CabBooking\CabBooking_Service\WcfService1\WcfService1\bin\WcfService1.pdb
+E:\Project 21-22\CabBooking\CabBooking_Service\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+E:\Project 21-22\CabBooking\CabBooking_Service\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+E:\Project 21-22\CabBooking\CabBooking_Service\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+E:\Project 21-22\CabBooking\CabBooking_Service\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
